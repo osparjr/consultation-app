@@ -1,0 +1,22 @@
+ 
+.div-container{
+ display: grid;
+  place-items: center;
+}
+ 
+.main-container{
+  max-width: 100%;
+}
+.contents{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 100%;
+  
+}
+.cards{
+    display: grid;
+  place-items: center ;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px
+}

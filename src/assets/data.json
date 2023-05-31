@@ -1,0 +1,33 @@
+ [
+	{
+		"id": "1",
+		"name": "Lito Oyao",
+		"status": "Available"
+	},
+	{
+		"id": "2",
+		"name": "Mariemel Oyao",
+		"status": "Unavailable"
+	},
+	{
+		"id": "3",
+		"name": "Dave Mendoza",
+		"status": "Available"
+	},
+	{
+		"id": "4",
+		"name": "Rochelle Pascual",
+		"status": "Unavailable"
+	},
+	{
+		"id": "5",
+		"name": "Sherwin Ostria",
+		"status": "Unavailable"
+	},
+	{
+		"id": "6",
+		"name": "Ryan Elmer Mueden",
+		"status": "Available"
+	}
+
+]
